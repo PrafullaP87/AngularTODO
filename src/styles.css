@@ -1,0 +1,10 @@
+/* You can add global styles to this file, and also import other style files */
+
+.container {
+  margin: auto;
+  padding: 5%;
+  height: auto;
+  width: auto;
+  background-color: rgb(164, 186, 135);
+  border-radius: 3%;
+}
